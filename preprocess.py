@@ -14,3 +14,4 @@ data[["Temperature", "Wind Speed"]] = scaler.fit_transform(data[["Temperature", 
 # Save preprocessed data
 data.to_csv("processed_data.csv", index=False)
 print("Preprocessed data saved to processed_data.csv")
+    
