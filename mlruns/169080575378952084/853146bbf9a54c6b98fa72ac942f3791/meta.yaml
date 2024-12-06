@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Faiq/Desktop/mlops/mlruns/169080575378952084/853146bbf9a54c6b98fa72ac942f3791/artifacts
+end_time: 1733491985032
+entry_point_name: ''
+experiment_id: '169080575378952084'
+lifecycle_stage: active
+run_id: 853146bbf9a54c6b98fa72ac942f3791
+run_name: brawny-turtle-55
+run_uuid: 853146bbf9a54c6b98fa72ac942f3791
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733491977965
+status: 3
+tags: []
+user_id: Faiq
